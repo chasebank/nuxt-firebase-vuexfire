@@ -44,7 +44,7 @@ export default {
   methods: mapActions('todos', ['subscribeToAllTodos']),
 
   fetched() {
-    return this.subscribetoAllTodos()
+    return this.subscribeToAllTodos()
   }
 }
 </script>
