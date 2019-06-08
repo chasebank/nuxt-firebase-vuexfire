@@ -1,6 +1,6 @@
 # nuxt-firestore-vuexfire
 
-> Nuxt example project using Firebase and Vuexfire.
+This is a support demo created for support, that does **NOT** work (yet!)
 
 ## Build Setup
 
