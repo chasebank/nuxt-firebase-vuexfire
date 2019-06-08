@@ -1,6 +1,6 @@
 # nuxt-firestore-vuexfire
 
-This is a support demo created for support, that does **NOT** work (yet!)
+This is a demo created for support, that does **NOT** work (yet!)
 
 ## Build Setup
 
